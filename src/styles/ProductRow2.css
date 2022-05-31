@@ -1,0 +1,11 @@
+.product-row{
+    
+    border-radius: 5px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto; 
+    margin-bottom: 8px;
+    border: 1px solid black;
+}
